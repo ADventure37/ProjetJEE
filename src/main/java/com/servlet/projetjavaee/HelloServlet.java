@@ -1,4 +1,4 @@
-package com.servlet.projetjavaee;
+package java.com.servlet.projetjavaee;
 
 import java.io.*;
 
